@@ -20,7 +20,6 @@ Prerequisites
 
  Installation
 
-	1.	Clone the repository:
 
- git clone https://github.com/your-username/GitHubCollabTracker.git
+git clone https://github.com/your-username/GitHubCollabTracker.git
 cd GitHubCollabTracker
